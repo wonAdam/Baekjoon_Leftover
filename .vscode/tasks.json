@@ -6,8 +6,8 @@
             "label": "cppbuild",
             "command": "g++",
             "args": [
-                "${fileBasename}",
-                "-g"
+                "-g",
+                "${fileBasename}"
             ],
             "options": {
                 "cwd": "${fileDirname}"
