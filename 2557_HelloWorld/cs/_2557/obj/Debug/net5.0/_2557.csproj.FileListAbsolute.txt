@@ -1,0 +1,32 @@
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\bin\Debug\net5.0\_2557.exe
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\bin\Debug\net5.0\_2557.deps.json
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\bin\Debug\net5.0\_2557.runtimeconfig.json
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\bin\Debug\net5.0\_2557.runtimeconfig.dev.json
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\bin\Debug\net5.0\_2557.dll
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\bin\Debug\net5.0\ref\_2557.dll
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\bin\Debug\net5.0\_2557.pdb
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\obj\Debug\net5.0\_2557.csprojAssemblyReference.cache
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\obj\Debug\net5.0\_2557.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\obj\Debug\net5.0\_2557.AssemblyInfoInputs.cache
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\obj\Debug\net5.0\_2557.AssemblyInfo.cs
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\obj\Debug\net5.0\_2557.csproj.CoreCompileInputs.cache
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\obj\Debug\net5.0\_2557.dll
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\obj\Debug\net5.0\ref\_2557.dll
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\obj\Debug\net5.0\_2557.pdb
+C:\Users\ehdgu\Desktop\Baekjoon\2557_Hello World\cs\_2557\obj\Debug\net5.0\_2557.genruntimeconfig.cache
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\bin\Debug\net5.0\_2557.exe
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\bin\Debug\net5.0\_2557.deps.json
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\bin\Debug\net5.0\_2557.runtimeconfig.json
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\bin\Debug\net5.0\_2557.runtimeconfig.dev.json
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\bin\Debug\net5.0\_2557.dll
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\bin\Debug\net5.0\ref\_2557.dll
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\bin\Debug\net5.0\_2557.pdb
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\obj\Debug\net5.0\_2557.csprojAssemblyReference.cache
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\obj\Debug\net5.0\_2557.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\obj\Debug\net5.0\_2557.AssemblyInfoInputs.cache
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\obj\Debug\net5.0\_2557.AssemblyInfo.cs
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\obj\Debug\net5.0\_2557.csproj.CoreCompileInputs.cache
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\obj\Debug\net5.0\_2557.dll
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\obj\Debug\net5.0\ref\_2557.dll
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\obj\Debug\net5.0\_2557.pdb
+C:\Users\ehdgu\Desktop\Baekjoon\2557_HelloWorld\cs\_2557\obj\Debug\net5.0\_2557.genruntimeconfig.cache
