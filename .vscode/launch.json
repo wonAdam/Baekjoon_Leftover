@@ -32,9 +32,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/2557_HelloWorld/cs/_2557/bin/Debug/net5.0/_2557.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}/2557_HelloWorld/cs/_2557",
+            "program": "${fileDirname}/bin/Debug/net5.0/cs.dll",
+            "args": ["< input.txt"],
+            "cwd": "${fileDirname}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "externalTerminal",
             "stopAtEntry": false

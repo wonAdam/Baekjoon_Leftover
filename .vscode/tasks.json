@@ -20,13 +20,17 @@
                 "kind": "build"
             }
         },
+        // /* dotnet cheat sheet */ //
+        // mkdir cs
+        // cd cs
+        // dotnet new console
         {
             "label": "build",
             "command": "dotnet",
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/2557_HelloWorld/cs/_2557/_2557.csproj",
+                "${fileDirname}\\cs.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
