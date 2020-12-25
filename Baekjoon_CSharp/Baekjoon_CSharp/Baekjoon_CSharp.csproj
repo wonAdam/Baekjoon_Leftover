@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Program.cs" />
+    <Compile Remove="_1110.cs" />
+    <Compile Remove="_11718.cs" />
+    <Compile Remove="_2446.cs" />
+    <Compile Remove="_2557.cs" />
+  </ItemGroup>
+
+</Project>
