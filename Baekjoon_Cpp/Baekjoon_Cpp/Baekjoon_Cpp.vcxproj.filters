@@ -15,7 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="_10814.cpp">
+=======
+    <ClCompile Include="l1_crane.cpp">
+>>>>>>> df9caa4f6e751e51e2a4574f8538f140b0c46354
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
