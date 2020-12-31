@@ -1,11 +1,12 @@
 ﻿#include <string>
 #include <vector>
+#include <stack>
 #include <iostream>
 
 int solution(std::vector<std::vector<int>> board, std::vector<int> moves)
 {
 	int answer = 0;
-	std::vector<int> stack;
+	std::stack<int> stack;
 	int idx = 0;
 
 	/* 모든 moves를 소모할때까지 */
@@ -32,17 +33,22 @@ int solution(std::vector<std::vector<int>> board, std::vector<int> moves)
 
 
 		/* 스택에 담기 */
-		stack.push_back(doll);
+		stack.push(doll);
 		if (stack.size() > 1)
 		{
-			int firsttop = stack[stack.size() -1];
-			int secondtop = stack[stack.size() - 2];
+			int firsttop = stack.top();
+			stack.pop();
+			int secondtop = stack.top();
+
 			if (firsttop == secondtop) // 위에서 첫번째와 두번째 인형이 같은 인형임
 			{
 				answer += 2;
-				stack.pop_back();
-				stack.pop_back();
+				stack.pop();
 			}
+			else { // pop 했던 것을 원상복귀
+				stack.push(firsttop);
+			}
+
 		}
 
 	}
