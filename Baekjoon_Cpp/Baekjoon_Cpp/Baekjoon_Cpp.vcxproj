@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="l1_crane.cpp" />
     <ClCompile Include="l1_PickTwoAndAdd.cpp" />
+    <ClCompile Include="l1_PracticeTest.cpp" />
     <ClCompile Include="l1_RunnerWhoFailToComplete.cpp" />
     <ClCompile Include="_10814.cpp" />
     <ClCompile Include="_1110.cpp" />

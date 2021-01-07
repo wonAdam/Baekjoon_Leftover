@@ -48,5 +48,8 @@
     <ClCompile Include="l1_crane.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="l1_PracticeTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
