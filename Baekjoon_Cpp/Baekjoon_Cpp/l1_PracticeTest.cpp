@@ -39,13 +39,13 @@
 //	return 0;
 //}
 
-#include <vector>
-#include <iostream>
-
-int main()
-{
-	std::vector<int> v = std::vector<int>(5, 3);
-
-	for (std::vector<int>::const_iterator iter = v.begin(); iter != v.end(); iter++)
-		std::cout << *iter << std::endl;
-}
+//#include <vector>
+//#include <iostream>
+//
+//int main()
+//{
+//	std::vector<int> v = std::vector<int>(5, 3);
+//
+//	for (std::vector<int>::const_iterator iter = v.begin(); iter != v.end(); iter++)
+//		std::cout << *iter << std::endl;
+//}

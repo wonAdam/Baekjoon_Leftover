@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="_1764_NotThatIveHeardOrKnown.cpp" />
     <ClCompile Include="l1_crane.cpp" />
     <ClCompile Include="l1_PickTwoAndAdd.cpp" />
     <ClCompile Include="l1_PracticeTest.cpp" />

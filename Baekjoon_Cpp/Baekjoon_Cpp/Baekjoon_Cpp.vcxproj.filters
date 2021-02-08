@@ -51,5 +51,8 @@
     <ClCompile Include="l1_PracticeTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="_1764_NotThatIveHeardOrKnown.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
