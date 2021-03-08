@@ -1,41 +1,45 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
 
-namespace Baekjoon_CSharp
-{
-    class _2166_AreaOfPolygon
-    {
-        struct Vector
-        {
-            public int x, y;
-            public Vector(int[] xy)
-            {
-                x = xy[0];
-                y = xy[1];
-            }
-        }
-        static void Main()
-        {
-            int n = int.Parse(Console.ReadLine());
+//namespace Baekjoon_CSharp
+//{
+//    class _2166_AreaOfPolygon
+//    {
+//        struct Vector
+//        {
+//            public Int64 x, y;
+//            public Vector(Int64[] xy)
+//            {
+//                x = xy[0];
+//                y = xy[1];
+//            }
+//        }
+//        static void Main()
+//        {
+//            // 입력
+//            int n = int.Parse(Console.ReadLine());
+            
+//            List<Vector> points = new List<Vector>();
+//            for (int i = 0; i < n; i++)
+//                points.Add(new Vector(Console.ReadLine().Split(" ").Select(s => Int64.Parse(s)).ToArray()));
 
-            List<Vector> points = new List<Vector>();
-            for (int i = 0; i < n; i++)
-                points.Add(new Vector(Console.ReadLine().Split(" ").Select(s => int.Parse(s)).ToArray()));
+//            // 신발끈공식
+//            Int64 x = 0;
+//            for (int i = 0; i < points.Count; i++)
+//                x += points[i].x * points[(i + 1) % points.Count].y;
 
-            int x = 0;
-            for (int i = 0; i < points.Count - 1; i++)
-                x += points[i].x * points[i + 1].y;
+//            Int64 y = 0;
+//            for (int i = 0; i < points.Count; i++)
+//                y += points[(i + 1) % points.Count].x * points[i].y;
 
-            int y = 0;
-            for (int i = 0; i < points.Count - 1; i++)
-                y += points[i + 1].x * points[i].y;
+//            // 반올림
+//            double area = Math.Abs((double)x - (double)y) / 2.0d;
+//            area = Math.Round(area * 10.0d, MidpointRounding.AwayFromZero);
+//            area /= 10.0d;
 
-            decimal area = Math.Abs(x - y) / 2.0m;
-            area = Math.Round(area * 10.0m, MidpointRounding.AwayFromZero);
-            area /= 10.0m;
-
-            Console.WriteLine("{0:0.0}", area);
-        }
-    }
-}
+//            // 결과 출력
+//            Console.WriteLine("{0:0.0}", area);
+//        }
+//    }
+//}
