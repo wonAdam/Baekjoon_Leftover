@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="_10569.cpp" />
     <ClCompile Include="_1764_NotThatIveHeardOrKnown.cpp" />
     <ClCompile Include="l1_crane.cpp" />
     <ClCompile Include="l1_PickTwoAndAdd.cpp" />
@@ -32,6 +33,7 @@
     <ClCompile Include="_2446.cpp" />
     <ClCompile Include="_2557.cpp" />
     <ClCompile Include="_2751.cpp" />
+    <ClCompile Include="_3053.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

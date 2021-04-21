@@ -54,5 +54,11 @@
     <ClCompile Include="_1764_NotThatIveHeardOrKnown.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="_10569.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="_3053.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
