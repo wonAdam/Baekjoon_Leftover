@@ -72,5 +72,8 @@
     <ClCompile Include="P_TargetNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="P_GameMapShortestPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
