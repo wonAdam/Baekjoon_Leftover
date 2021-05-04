@@ -19,6 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="P_PrimeNum.cpp" />
+    <ClCompile Include="P_SooBakSooBakSoo.cpp" />
+    <ClCompile Include="P_StringBasic.cpp" />
+    <ClCompile Include="P_TargetNumber.cpp" />
     <ClCompile Include="_10569.cpp" />
     <ClCompile Include="_1764_NotThatIveHeardOrKnown.cpp" />
     <ClCompile Include="l1_crane.cpp" />

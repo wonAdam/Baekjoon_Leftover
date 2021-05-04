@@ -60,5 +60,17 @@
     <ClCompile Include="_3053.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="P_PrimeNum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_StringBasic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_SooBakSooBakSoo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P_TargetNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
