@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="P_FeatureDevelopment.cpp" />
     <ClCompile Include="P_GameMapShortestPath.cpp" />
     <ClCompile Include="P_PrimeNum.cpp" />
     <ClCompile Include="P_SooBakSooBakSoo.cpp" />

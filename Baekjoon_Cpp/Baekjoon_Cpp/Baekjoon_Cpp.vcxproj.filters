@@ -75,5 +75,8 @@
     <ClCompile Include="P_GameMapShortestPath.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="P_FeatureDevelopment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
