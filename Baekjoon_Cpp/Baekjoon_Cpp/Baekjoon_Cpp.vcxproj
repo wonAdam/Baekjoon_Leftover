@@ -22,6 +22,7 @@
     <ClCompile Include="P_FeatureDevelopment.cpp" />
     <ClCompile Include="P_GameMapShortestPath.cpp" />
     <ClCompile Include="P_PrimeNum.cpp" />
+    <ClCompile Include="P_RotatingBracket.cpp" />
     <ClCompile Include="P_SooBakSooBakSoo.cpp" />
     <ClCompile Include="P_StringBasic.cpp" />
     <ClCompile Include="P_TargetNumber.cpp" />

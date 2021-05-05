@@ -78,5 +78,8 @@
     <ClCompile Include="P_FeatureDevelopment.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="P_RotatingBracket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
