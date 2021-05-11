@@ -81,5 +81,20 @@
     <ClCompile Include="P_RotatingBracket.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="P_MatrixEdgeRotation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SummerIntern2021_Practice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SummerIntern_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SummerIntern_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SummerIntern_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
