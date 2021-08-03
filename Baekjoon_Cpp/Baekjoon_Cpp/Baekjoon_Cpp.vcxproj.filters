@@ -96,5 +96,8 @@
     <ClCompile Include="SummerIntern_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="_10250.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
