@@ -33,6 +33,7 @@
     <ClCompile Include="SummerIntern_3.cpp" />
     <ClCompile Include="_10250.cpp" />
     <ClCompile Include="_10569.cpp" />
+    <ClCompile Include="_10757.cpp" />
     <ClCompile Include="_1764_NotThatIveHeardOrKnown.cpp" />
     <ClCompile Include="l1_crane.cpp" />
     <ClCompile Include="l1_PickTwoAndAdd.cpp" />
