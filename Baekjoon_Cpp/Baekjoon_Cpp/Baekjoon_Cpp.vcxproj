@@ -19,6 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="2021toss_2.cpp" />
+    <ClCompile Include="2021toss_3.cpp" />
+    <ClCompile Include="2021toss_5.cpp" />
+    <ClCompile Include="2021toss_6.cpp" />
     <ClCompile Include="P_FeatureDevelopment.cpp" />
     <ClCompile Include="P_GameMapShortestPath.cpp" />
     <ClCompile Include="P_MatrixEdgeRotation.cpp" />
@@ -31,6 +35,7 @@
     <ClCompile Include="SummerIntern_1.cpp" />
     <ClCompile Include="SummerIntern_2.cpp" />
     <ClCompile Include="SummerIntern_3.cpp" />
+    <ClCompile Include="2021toss_1.cpp" />
     <ClCompile Include="_10250.cpp" />
     <ClCompile Include="_10569.cpp" />
     <ClCompile Include="_10757.cpp" />
