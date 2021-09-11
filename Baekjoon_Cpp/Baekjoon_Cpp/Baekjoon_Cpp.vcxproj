@@ -36,6 +36,8 @@
     <ClCompile Include="SummerIntern_2.cpp" />
     <ClCompile Include="SummerIntern_3.cpp" />
     <ClCompile Include="2021toss_1.cpp" />
+    <ClCompile Include="Sundaytoz_1.cpp" />
+    <ClCompile Include="Sundaytoz_2.cpp" />
     <ClCompile Include="_10250.cpp" />
     <ClCompile Include="_10569.cpp" />
     <ClCompile Include="_10757.cpp" />
