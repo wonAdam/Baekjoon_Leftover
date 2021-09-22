@@ -23,6 +23,8 @@
     <ClCompile Include="2021toss_3.cpp" />
     <ClCompile Include="2021toss_5.cpp" />
     <ClCompile Include="2021toss_6.cpp" />
+    <ClCompile Include="leeetcode_1103.cpp" />
+    <ClCompile Include="leetcode_1791.cpp" />
     <ClCompile Include="leetcode_190.cpp" />
     <ClCompile Include="leetcode_20.cpp" />
     <ClCompile Include="P_FeatureDevelopment.cpp" />
