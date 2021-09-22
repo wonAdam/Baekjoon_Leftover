@@ -27,6 +27,7 @@
     <ClCompile Include="leetcode_1791.cpp" />
     <ClCompile Include="leetcode_190.cpp" />
     <ClCompile Include="leetcode_20.cpp" />
+    <ClCompile Include="leetcode_5.cpp" />
     <ClCompile Include="P_FeatureDevelopment.cpp" />
     <ClCompile Include="P_GameMapShortestPath.cpp" />
     <ClCompile Include="P_MatrixEdgeRotation.cpp" />
