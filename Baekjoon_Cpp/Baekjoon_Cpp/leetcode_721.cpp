@@ -41,32 +41,38 @@ public:
         for (const auto& pair : emailsToOtherEmails)
         {
             string startEmail = pair.first;
-            const set<string>& otherEmails = pair.second;
             if (visited.find(startEmail) == visited.end()) // 아직 방문 안 한 이메일
-            {
+            { // 그러면 여기서 새로운 계정을 찾자
                 queue<string> q;
                 result.push_back(vector<string>());
                 int resultCurrIndex = result.size() - 1;
-                result[resultCurrIndex].push_back(emailsToNames[startEmail]);
+                result[resultCurrIndex].push_back(emailsToNames[startEmail]); // 우선 이름 push
 
                 q.push(startEmail);
-                while (!q.empty())
+                visited.insert(startEmail);
+                while (!q.empty()) // BFS
                 {
                     string currEmail = q.front();
                     q.pop();
-                    for (const string& otherEmail : otherEmails)
+                    result[resultCurrIndex].push_back(currEmail);
+                    const set<string>& neighbors = emailsToOtherEmails[currEmail];
+                    for (const string& otherEmail : neighbors)
                     {
                         if (visited.find(otherEmail) == visited.end())
+                        {
                             q.push(otherEmail);
+                            visited.insert(otherEmail);
+                        }
                     }
 
                 }
 
+                sort(result[resultCurrIndex].begin() + 1, result[resultCurrIndex].end());
             }
         }
 
 
-        return {};
+        return result;
     }
 };
 
@@ -74,8 +80,7 @@ int main()
 {
     vector<vector<string>> accounts;
     accounts.push_back({ "John","johnsmith@mail.com","john_newyork@mail.com" });
-    accounts.push_back({ "John","john_newyork@mail.com","john00@mail.com" });
-    accounts.push_back({ "John","johnsmith@mail.com","john_newyork@mail.com" });
+    accounts.push_back({ "John","johnsmith@mail.com","john00@mail.com" });
     accounts.push_back({ "Mary","mary@mail.com" });
     accounts.push_back({ "John","johnnybravo@mail.com" });
 
