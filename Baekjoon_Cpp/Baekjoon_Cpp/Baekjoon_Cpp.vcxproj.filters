@@ -13,145 +13,124 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Baekjoon">
+      <UniqueIdentifier>{1cfaa070-67a6-4472-ad6e-ffa4505689f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Programmers">
+      <UniqueIdentifier>{d01a0374-eafb-4da2-a61d-79d2589f04fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LeetCode">
+      <UniqueIdentifier>{dddff33c-5fbd-4a55-82ca-c6ab03f179f3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="l1_PickTwoAndAdd.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="l1_RunnerWhoFailToComplete.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="_1110.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="_2108.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="_2446.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="_2557.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="_2751.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="_10814.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="_11718.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="_15596.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="l1_crane.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="l1_PickTwoAndAdd.cpp">
+      <Filter>Source Files\Programmers</Filter>
     </ClCompile>
     <ClCompile Include="l1_PracticeTest.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="l1_RunnerWhoFailToComplete.cpp">
+      <Filter>Source Files\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="_1110.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
     <ClCompile Include="_1764_NotThatIveHeardOrKnown.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
-    <ClCompile Include="_10569.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="_2108.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
-    <ClCompile Include="_3053.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="_2446.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
-    <ClCompile Include="P_PrimeNum.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="_2557.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
-    <ClCompile Include="P_StringBasic.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="P_SooBakSooBakSoo.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="P_TargetNumber.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="P_GameMapShortestPath.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="P_FeatureDevelopment.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="P_RotatingBracket.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="P_MatrixEdgeRotation.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="SummerIntern2021_Practice.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="SummerIntern_2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="SummerIntern_3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="SummerIntern_1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="_10250.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="_2751.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
     <ClCompile Include="_2775.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="_3053.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="_10250.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="_10569.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
     <ClCompile Include="_10757.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
-    <ClCompile Include="2021toss_1.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="_10814.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
-    <ClCompile Include="2021toss_3.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="_11718.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
-    <ClCompile Include="2021toss_5.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2021toss_6.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2021toss_2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Sundaytoz_1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Sundaytoz_2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="leetcode_20.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="leetcode_190.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="leetcode_1791.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="_15596.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
     <ClCompile Include="leeetcode_1103.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="leetcode_5.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode_20.cpp">
+      <Filter>Source Files\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode_190.cpp">
+      <Filter>Source Files\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="leetcode_491.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="leetcode_850.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="leetcode_557.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="leetcode_721.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode_850.cpp">
+      <Filter>Source Files\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode_1791.cpp">
+      <Filter>Source Files\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="P_FeatureDevelopment.cpp">
+      <Filter>Source Files\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="P_GameMapShortestPath.cpp">
+      <Filter>Source Files\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="P_MatrixEdgeRotation.cpp">
+      <Filter>Source Files\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="P_PrimeNum.cpp">
+      <Filter>Source Files\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="P_RotatingBracket.cpp">
+      <Filter>Source Files\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="P_SooBakSooBakSoo.cpp">
+      <Filter>Source Files\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="P_StringBasic.cpp">
+      <Filter>Source Files\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="P_TargetNumber.cpp">
+      <Filter>Source Files\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode_310.cpp">
+      <Filter>Source Files\LeetCode</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

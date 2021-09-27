@@ -19,14 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2021toss_2.cpp" />
-    <ClCompile Include="2021toss_3.cpp" />
-    <ClCompile Include="2021toss_5.cpp" />
-    <ClCompile Include="2021toss_6.cpp" />
     <ClCompile Include="leeetcode_1103.cpp" />
     <ClCompile Include="leetcode_1791.cpp" />
     <ClCompile Include="leetcode_190.cpp" />
     <ClCompile Include="leetcode_20.cpp" />
+    <ClCompile Include="leetcode_310.cpp" />
     <ClCompile Include="leetcode_491.cpp" />
     <ClCompile Include="leetcode_5.cpp" />
     <ClCompile Include="leetcode_557.cpp" />
@@ -40,13 +37,6 @@
     <ClCompile Include="P_SooBakSooBakSoo.cpp" />
     <ClCompile Include="P_StringBasic.cpp" />
     <ClCompile Include="P_TargetNumber.cpp" />
-    <ClCompile Include="SummerIntern2021_Practice.cpp" />
-    <ClCompile Include="SummerIntern_1.cpp" />
-    <ClCompile Include="SummerIntern_2.cpp" />
-    <ClCompile Include="SummerIntern_3.cpp" />
-    <ClCompile Include="2021toss_1.cpp" />
-    <ClCompile Include="Sundaytoz_1.cpp" />
-    <ClCompile Include="Sundaytoz_2.cpp" />
     <ClCompile Include="_10250.cpp" />
     <ClCompile Include="_10569.cpp" />
     <ClCompile Include="_10757.cpp" />
