@@ -147,5 +147,8 @@
     <ClCompile Include="leetcode_704.cpp">
       <Filter>Source Files\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="leetcode_1668.cpp">
+      <Filter>Source Files\LeetCode</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
