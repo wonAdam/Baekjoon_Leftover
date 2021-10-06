@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="leeetcode_1103.cpp" />
     <ClCompile Include="leetcode_1436.cpp" />
+    <ClCompile Include="leetcode_1450.cpp" />
     <ClCompile Include="leetcode_1668.cpp" />
     <ClCompile Include="leetcode_1689.cpp" />
     <ClCompile Include="leetcode_1791.cpp" />
