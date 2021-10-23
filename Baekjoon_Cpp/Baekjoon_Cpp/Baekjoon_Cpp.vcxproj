@@ -47,6 +47,7 @@
     <ClCompile Include="leetcode_836.cpp" />
     <ClCompile Include="leetcode_850.cpp" />
     <ClCompile Include="leetcode_860.cpp" />
+    <ClCompile Include="leetcode_883.cpp" />
     <ClCompile Include="leetcode_944.cpp" />
     <ClCompile Include="P_FeatureDevelopment.cpp" />
     <ClCompile Include="P_GameMapShortestPath.cpp" />
