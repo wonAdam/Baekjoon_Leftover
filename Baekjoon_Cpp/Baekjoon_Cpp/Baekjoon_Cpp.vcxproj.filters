@@ -204,5 +204,8 @@
     <ClCompile Include="_23321.cpp">
       <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
+    <ClCompile Include="leetcode_821.cpp">
+      <Filter>Source Files\LeetCode</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="leetcode_821.cpp" />
     <ClCompile Include="_23320.cpp" />
     <ClCompile Include="leeetcode_1103.cpp" />
     <ClCompile Include="leetcode_1071.cpp" />
