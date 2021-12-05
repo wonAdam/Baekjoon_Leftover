@@ -25,6 +25,7 @@
     <ClCompile Include="leetcode_1507.cpp" />
     <ClCompile Include="leetcode_1995.cpp" />
     <ClCompile Include="leetcode_200.cpp" />
+    <ClCompile Include="leetcode_2073.cpp" />
     <ClCompile Include="leetcode_232.cpp" />
     <ClCompile Include="leetcode_342.cpp" />
     <ClCompile Include="leetcode_392.cpp" />
@@ -34,7 +35,7 @@
     <ClCompile Include="leetcode_821.cpp" />
     <ClCompile Include="leetcode_999.cpp" />
     <ClCompile Include="_23320.cpp" />
-    <ClCompile Include="leeetcode_1103.cpp" />
+    <ClCompile Include="leetcode_1103.cpp" />
     <ClCompile Include="leetcode_1071.cpp" />
     <ClCompile Include="leetcode_1374.cpp" />
     <ClCompile Include="leetcode_1385.cpp" />
