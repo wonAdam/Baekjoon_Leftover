@@ -42,6 +42,7 @@
     <ClCompile Include="leetcode_821.cpp" />
     <ClCompile Include="leetcode_908.cpp" />
     <ClCompile Include="leetcode_999.cpp" />
+    <ClCompile Include="_11651.cpp" />
     <ClCompile Include="_23320.cpp" />
     <ClCompile Include="leetcode_1103.cpp" />
     <ClCompile Include="leetcode_1071.cpp" />
