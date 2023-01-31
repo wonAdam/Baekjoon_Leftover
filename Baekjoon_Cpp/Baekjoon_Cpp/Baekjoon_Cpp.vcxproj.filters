@@ -282,5 +282,8 @@
     <ClCompile Include="_4948.cpp">
       <Filter>Source Files\Baekjoon</Filter>
     </ClCompile>
+    <ClCompile Include="_1929.cpp">
+      <Filter>Source Files\Baekjoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
