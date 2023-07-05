@@ -1,4 +1,4 @@
-#define baekjoon1929 1
+#define baekjoon1929 0
 #if baekjoon1929
 
 #include <iostream>
