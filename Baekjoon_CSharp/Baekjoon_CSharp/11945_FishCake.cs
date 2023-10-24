@@ -10,7 +10,7 @@
 //        static void Main(string[] args)
 //        {
 //            int lineNum = Console.ReadLine().Split().Select(int.Parse).ToList()[0];
-//            for(int i = 0; i < lineNum; i++)
+//            for (int i = 0; i < lineNum; i++)
 //            {
 //                Console.WriteLine(String.Join("", Console.ReadLine().Reverse()));
 //            }
