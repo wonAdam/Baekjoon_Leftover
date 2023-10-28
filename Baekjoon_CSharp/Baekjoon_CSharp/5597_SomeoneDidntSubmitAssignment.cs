@@ -10,7 +10,7 @@
 //        static void Main(string[] args)
 //        {
 //            SortedSet<int> numbers = new SortedSet<int>();
-//            for(int i = 1; i <= 30; i++)
+//            for (int i = 1; i <= 30; i++)
 //                numbers.Add(i);
 
 //            for (int i = 1; i <= 28; i++)

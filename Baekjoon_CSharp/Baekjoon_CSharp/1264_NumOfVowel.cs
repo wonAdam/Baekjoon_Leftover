@@ -7,11 +7,11 @@
 //{
 //    internal class _1264_NumOfVowel
 //    {
-//        static List<char> vowels = new List<char>(){ 'a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U' };
-        
+//        static List<char> vowels = new List<char>() { 'a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U' };
+
 //        static void Main(string[] args)
 //        {
-//            while(true)
+//            while (true)
 //            {
 //                string input = Console.ReadLine();
 //                if (input == "#")
