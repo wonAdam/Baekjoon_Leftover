@@ -15,10 +15,16 @@
 
 //            int didDrink = 0;
 
-//            for(int currentStoreIndex = 0; currentStoreIndex < storeCount; currentStoreIndex++)
+//            for (int currentStoreIndex = 0; currentStoreIndex < storeCount; currentStoreIndex++)
 //            {
-
+//                if (stores[currentStoreIndex] == wantToDrink) 
+//                {
+//                    wantToDrink = (wantToDrink + 1) % 3;
+//                    didDrink++;
+//                }
 //            }
+
+//            Console.WriteLine(didDrink);
 //        }
 //    }
 //}
